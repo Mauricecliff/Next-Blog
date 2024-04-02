@@ -1,2 +1,2 @@
 # Next-Blog
-A demo next blog app
+A Demo Next Js Web Blog Application.
